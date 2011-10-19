@@ -4,7 +4,7 @@ Welcome to CyanogenMod IRC!
 Stable Versions
 ------------------
 
-7.0.3 - Ace, Blade, Bravo(c), Buzz, Click, Crespo, Encore, Espresso, Harmony, HeroC, Inc, Glacier, Liberty, Legend, One, Sholes, Speedy, Supersonic, Passion, Vision, Z71, Zero
+7.1.0 - Ace, Blade, Bravo(c), Buzz, Click, Crespo, Encore, Espresso, Harmony, HeroC, Inc, Glacier, Liberty, Legend, One, Sholes, Speedy, Supersonic, Passion, Vision, Z71, Zero
 
 6.1.0 - Dream, Sapphire, Hero
 
@@ -12,7 +12,7 @@ Stable Versions
 Downloads
 ------------------
 
-[Stable (CM 7.0.x)](http://download.cyanogenmod.com/?type=stable)
+[Stable (CM 7.1.x)](http://download.cyanogenmod.com/?type=stable)
 
 [Release Candidates] (http://download.cyanogenmod.com/?type=RC)
 
