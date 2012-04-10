@@ -1,5 +1,16 @@
 Welcome to CyanogenMod IRC!
 ===========
+CM Umbrella of IRC Channels:
+------------------
+#CyanogenMod: General support and off-topic
+#Koush: ClockworkMod Recovery and devices under Koushik Dutta 
+#Cvpcs: Devices under Cvpcs
+#TeamHacksung-Support: Samsung Galaxy family of devices
+#CyanogenMod-touchpad: HP Touchpad discussion
+#CyanogenMod-dev: Open Development channel
+#CyanogenMod-priv: Private Development channel
+#CM-wiki
+#Trebuchet: Development of CM9's launcher application
 
 Stable Versions
 ------------------
@@ -14,19 +25,21 @@ Downloads
 
 [Stable (CM 7.1.x)](http://download.cyanogenmod.com/?type=stable)
 
-[Release Candidates] (http://download.cyanogenmod.com/?type=RC)
+[Release Candidates(CM 7.2)] (http://download.cyanogenmod.com/?type=RC)
 
-[Nightly Builds(CM 7.1.x)](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
+[Nightly Builds(CM 7.2.x & CM 9.x)](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
 
 
 Other useful links
 ------------------
-[Google Apps](http://goo-inside.me/gapps/)
+[Google Apps](http://goo-inside.me/gapps/latest)
+
+[CM Google+](http://goo.gl/ZGzkR)
 
 [Forum](http://goo.gl/WpNQ)
 
 [Wiki](http://goo.gl/fUQ4)
 
-[Release Changelog](http://goo.gl/vCoz)
+[Release Changelog](http://goo.gl/8akU6)
 
 [Nightly Changelog](http://cm-nightlies.appspot.com)
