@@ -25,7 +25,7 @@ Stable Versions
 9.0.0:
 
 Samsung
--------------------
+++++++++++++++
 Google Galaxy Nexus International (maguro)
 Google Galaxy Nexus Verizon (toro)
 Google Galaxy Nexus Sprint (toroplus)
