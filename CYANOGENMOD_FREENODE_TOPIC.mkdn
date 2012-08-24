@@ -101,7 +101,7 @@ Xoom Wi-Fi (wingray)
 Downloads
 ------------------
 
-[Stable (CM 9.0.x & 7.2.x](http://download.cyanogenmod.com/?type=stable)
+[Stable (CM 9.0.x & 7.2.x)](http://download.cyanogenmod.com/?type=stable)
 
 [Release Candidates(CM 10.0)] (http://download.cyanogenmod.com/?type=RC)
 
