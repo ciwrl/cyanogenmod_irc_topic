@@ -52,9 +52,10 @@ Galaxy Tab 2 7.0 Wi-Fi 8GB (p3113)
 Galaxy Tab 2 10.1 Wi-Fi 16GB (p5110)
 Galaxy Tab 2 10.1 Wi-Fi 16GB (p5113)
 Galaxy Tab 2 10.1 3G 16GB (p5100)
+~~~~~~~~~~
 
 Sony Ericsson:
------------------------
+~~~~~~~~~~~~~~~~~~~~~
 Xperia S (nozomi)
 Xperia Play R800i (zeus)
 Xperia Play CDMA R800x (zeusc)
@@ -66,28 +67,33 @@ Xperia Active ST17i (satsuma)
 Xperia Mini ST15i (smultron)
 Xperia Mini Pro SK17i (mango)
 Live with Walkman WT19i (coconut)
+~~~~~~~~~~~~
 
 LG:
-----------------------------
+~~~~~~~~~~~~~~~~~~~~
 Optimus LTE / Nitro HD (p930)
 Optimus LTE SKT (su640)
 Optimus Sol (e730)
+~~~~~~~~~~~~~~~~~~
 
 ASUS:
------------------------------------
+~~~~~~~~~~~~~~~~
 EeePad Transformer Pad (tf300t)
 EeePad Transformer Prime (tf201)
 EeePad Transformer (tf101)
+~~~~~~~~~~~~~~~~~
 
 HTC:
-------------------------------------
+~~~~~~~~~~~~~~~~~~
 Sensation (pyramid)
+~~~~~~~~~~~~~~~~
 
 Motorola:
---------------------------------
+~~~~~~~~~~~~~~~~~~~
 Xoom Wi-Fi (wingray)
+~~~~~~~~~~~~~~~~~~~
 
-7.2.0 - Ace, Blade, Bravo(c), Buzz, Click, Crespo, Encore, Espresso, Harmony, HeroC, Inc, Glacier, Liberty, Legend, One, Optimus One, Sholes, Speedy, Supersonic, Passion, Vision, Z71, Zero
+7.2.0 - Ace, Blade, Bravo(c), Buzz, Click, Crespo, Encore, Espresso, Harmony, HeroC, Inc, Glacier, Liberty, Legend, One, Optimus Me, Optimus One, Sholes, Speedy, Supersonic, Passion, Vision, Z71, Zero
 
 6.1.0 - Dream, Sapphire, Hero
 
