@@ -22,8 +22,78 @@ Trebuchet: Development of CM9's launcher application
 
 Stable Versions
 ------------------
+9.0.0:
 
-7.1.0 - Ace, Blade, Bravo(c), Buzz, Click, Crespo, Encore, Espresso, Harmony, HeroC, Inc, Glacier, Liberty, Legend, One, Sholes, Speedy, Supersonic, Passion, Vision, Z71, Zero
+Samsung
+~~~~~~~~~~~~~~
+Google Galaxy Nexus International (maguro)
+Google Galaxy Nexus Verizon (toro)
+Google Galaxy Nexus Sprint (toroplus)
+Google Nexus S International (crespo)
+Google Nexus S 4G (crespo4g)
+Galaxy S3 I9300 International (i9300)
+Galaxy S I9000 (galaxysmtd)
+Galaxy S I9000 B (galaxysmtdb)
+Epic 4G Sprint (epicmtd)
+Captivate AT&T (captivatemtd)
+Galaxy S II I9100 (galaxys2)
+Galaxy S II G (i9100g)
+Galaxy S II AT&T (i777)
+Galaxy S II AT&T LTE (skyrocket)
+Galaxy S II T-Mobile (hercules)
+Galaxy Note International (n7000)
+Galaxy Note AT&T (quincyatt)
+Galaxy Tab (p1)
+Galaxy Tab CDMA (p1c)
+Galaxy Tab (p1n)
+Galaxy Tab (p1l)
+Galaxy Tab 2 7.0 Wi-Fi 8GB (p3110)
+Galaxy Tab 2 7.0 Wi-Fi 8GB (p3113)
+Galaxy Tab 2 10.1 Wi-Fi 16GB (p5110)
+Galaxy Tab 2 10.1 Wi-Fi 16GB (p5113)
+Galaxy Tab 2 10.1 3G 16GB (p5100)
+~~~~~~~~~~
+
+Sony Ericsson:
+~~~~~~~~~~~~~~~~~~~~~
+Xperia S (nozomi)
+Xperia Play R800i (zeus)
+Xperia Play CDMA R800x (zeusc)
+Xperia Ray ST18i (urushi)
+Xperia Arc LT15i (anzu)
+Xperia Neo MT15i (hallon)
+Xperia Neo V MT11i (haida)
+Xperia Active ST17i (satsuma)
+Xperia Mini ST15i (smultron)
+Xperia Mini Pro SK17i (mango)
+Live with Walkman WT19i (coconut)
+~~~~~~~~~~~~
+
+LG:
+~~~~~~~~~~~~~~~~~~~~
+Optimus LTE / Nitro HD (p930)
+Optimus LTE SKT (su640)
+Optimus Sol (e730)
+~~~~~~~~~~~~~~~~~~
+
+ASUS:
+~~~~~~~~~~~~~~~~
+EeePad Transformer Pad (tf300t)
+EeePad Transformer Prime (tf201)
+EeePad Transformer (tf101)
+~~~~~~~~~~~~~~~~~
+
+HTC:
+~~~~~~~~~~~~~~~~~~
+Sensation (pyramid)
+~~~~~~~~~~~~~~~~
+
+Motorola:
+~~~~~~~~~~~~~~~~~~~
+Xoom Wi-Fi (wingray)
+~~~~~~~~~~~~~~~~~~~
+
+7.2.0 - Ace, Blade, Bravo(c), Buzz, Click, Crespo, Encore, Espresso, Harmony, HeroC, Inc, Glacier, Liberty, Legend, One, Optimus Me, Optimus One, Sholes, Speedy, Supersonic, Passion, Vision, Z71, Zero
 
 6.1.0 - Dream, Sapphire, Hero
 
@@ -31,11 +101,11 @@ Stable Versions
 Downloads
 ------------------
 
-[Stable (CM 7.1.x)](http://download.cyanogenmod.com/?type=stable)
+[Stable (CM 9.0.x & 7.2.x](http://download.cyanogenmod.com/?type=stable)
 
-[Release Candidates(CM 7.2)] (http://download.cyanogenmod.com/?type=RC)
+[Release Candidates(CM 10.0)] (http://download.cyanogenmod.com/?type=RC)
 
-[Nightly Builds(CM 7.2.x & CM 9.x)](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
+[Nightly Builds(CM 10.x.x & CM 9.x.x & CM 7.x.x)](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
 
 
 Other useful links
