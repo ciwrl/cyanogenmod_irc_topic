@@ -53,6 +53,4 @@ Other useful links
 
 [Wiki](http://goo.gl/fUQ4)
 
-[Release Changelog](http://goo.gl/8akU6)
-
-[Nightly Changelog](http://cm-nightlies.appspot.com)
+[Nightly Changelog](http://changelog.bbqdroid.org/)
