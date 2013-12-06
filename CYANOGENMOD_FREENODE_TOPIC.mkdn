@@ -22,9 +22,9 @@ Trebuchet: Development of CM9's launcher application
 
 Stable Versions
 ------------------
-Android 4.3 - 10.2 RC1
+Android 4.3 - 10.2
 
-Android 4.2 - 10.1.2
+Android 4.2 - 10.1.3
 
 Android 4.1 - 10.0.0
 
@@ -42,6 +42,8 @@ Downloads
 
 [Release Candidates] (http://download.cyanogenmod.com/?type=RC)
 
+[M snapshots] (http://download.cyanogenmod.com/?type=snapshot)
+
 [Nightly Builds](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
 
 
@@ -56,5 +58,7 @@ Other useful links
 [Wiki](http://goo.gl/fUQ4)
 
 [Nightly Changelog](http://changelog.bbqdroid.org/)
+
+[Gerrit Code Review](http://review.cyanogenmod.org)
 
 [Github](https://github.com/CyanogenMod)
