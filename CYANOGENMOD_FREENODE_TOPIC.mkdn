@@ -22,6 +22,8 @@ Trebuchet: Development of CM9's launcher application
 
 Stable Versions
 ------------------
+Android 4.4 - 11.0
+
 Android 4.3 - 10.2
 
 Android 4.2 - 10.1.3
