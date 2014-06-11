@@ -40,18 +40,15 @@ Android 2.2 - 6.1.0 - Dream, Sapphire, Hero
 Downloads
 ------------------
 
-[Stable](http://download.cyanogenmod.com/?type=stable)
-
-[Release Candidates] (http://download.cyanogenmod.com/?type=RC)
-
-[M snapshots] (http://download.cyanogenmod.com/?type=snapshot)
+[Releases](http://download.cyanogenmod.com/?type=snapshot)
 
 [Nightly Builds](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
 
 
 Other useful links
 ------------------
-[Google Apps](http://goo-inside.me/gapps/latest)
+
+[Google Apps](http://wiki.cyanogenmod.org/w/Google_Apps)
 
 [CM Google+](http://goo.gl/ZGzkR)
 
@@ -64,3 +61,5 @@ Other useful links
 [Gerrit Code Review](http://review.cyanogenmod.org)
 
 [Github](https://github.com/CyanogenMod)
+
+[IRC Info Bot](https://itvends.com/cm/)
