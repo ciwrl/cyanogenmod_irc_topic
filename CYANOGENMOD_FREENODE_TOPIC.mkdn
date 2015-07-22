@@ -22,6 +22,10 @@ Trebuchet: Development of CM9's launcher application
 
 Stable Versions
 ------------------
+Android 5.1 - 12.1
+
+Android 5.0 - 12.0
+
 Android 4.4 - 11.0
 
 Android 4.3 - 10.2
@@ -31,10 +35,6 @@ Android 4.2 - 10.1.3
 Android 4.1 - 10.0.0
 
 Android 4.0 - 9.1.0
-
-Android 2.3 - 7.2.0 
-
-Android 2.2 - 6.1.0 - Dream, Sapphire, Hero
 
 
 Downloads
@@ -54,12 +54,12 @@ Other useful links
 
 [Forum](http://goo.gl/WpNQ)
 
-[Wiki](http://goo.gl/fUQ4)
-
-[Nightly Changelog](http://changelog.bbqdroid.org/)
+[Wiki](http://goo.gl/sA5vc)
 
 [Gerrit Code Review](http://review.cyanogenmod.org)
 
 [Github](https://github.com/CyanogenMod)
 
-[IRC Info Bot](https://itvends.com/cm/)
+[IRC Info Bot - Unofficial](https://itvends.com/cm/)
+
+[Nightly Changelog - Unofficial](http://changelog.bbqdroid.org/)
