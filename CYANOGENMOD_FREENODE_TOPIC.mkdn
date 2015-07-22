@@ -54,7 +54,7 @@ Other useful links
 
 [Forum](http://goo.gl/WpNQ)
 
-[Wiki](http://goo.gl/fUQ4)
+[Wiki](http://wiki.cyanogenmod.org/w/Development)
 
 [Nightly Changelog](http://changelog.bbqdroid.org/)
 
