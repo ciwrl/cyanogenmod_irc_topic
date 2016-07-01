@@ -4,24 +4,17 @@ CM Umbrella of IRC Channels ("/join #channelname"):
 ------------------
 CyanogenMod: General support and off-topic
 
-Koush: ClockworkMod Recovery and devices under Koushik Dutta 
-
-Cvpcs: Devices under Cvpcs
-
-TeamHacksung-Support: Samsung Galaxy family of devices
-
-CyanogenMod-touchpad: HP Touchpad discussion
-
 CyanogenMod-dev: Open Development channel
 
 CyanogenMod-priv: Private Development channel
 
 CM-wiki: CyanogenMod wiki discussions
 
-Trebuchet: Development of CM9's launcher application
 
-Stable Versions
+Release Versions
 ------------------
+Android 6.0 - 13.0
+
 Android 5.1 - 12.1
 
 Android 5.0 - 12.0
@@ -39,7 +32,6 @@ Android 4.0 - 9.1.0
 
 Downloads
 ------------------
-
 [Releases](http://download.cyanogenmod.com/?type=snapshot)
 
 [Nightly Builds](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
@@ -47,8 +39,9 @@ Downloads
 
 Other useful links
 ------------------
+[Google Apps](https://wiki.cyanogenmod.org/w/Google_Apps)
 
-[Google Apps](http://wiki.cyanogenmod.org/w/Google_Apps)
+[JIRA Bug Tracker](https://jira.cyanogenmod.org)
 
 [CM Google+](http://goo.gl/ZGzkR)
 
@@ -60,6 +53,13 @@ Other useful links
 
 [Github](https://github.com/CyanogenMod)
 
-[IRC Info Bot - Unofficial](https://itvends.com/cm/)
 
-[Nightly Changelog - Unofficial](http://changelog.bbqdroid.org/)
+Cyanogen OS support
+------------------
+[Cyanogen Inc. Community page](community.cyngn.com)
+
+
+Community built tools
+------------------
+[Nightly Changelog - Unofficial](https://www.cmxlog.com)
+
